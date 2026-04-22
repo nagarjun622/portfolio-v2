@@ -53,3 +53,6 @@ This portfolio is created to showcase my work and skills for internships and car
 ## Contact
 
 You can reach me through the contact section on the website.
+
+##  GitHub Repository
+https://github.com/nagarjun622/portfolio-v2
