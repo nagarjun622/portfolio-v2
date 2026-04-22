@@ -20,7 +20,7 @@ function AppContent() {
     if (isReload && location.pathname !== "/") {
       navigate("/");
     }
-  }, []);
+  }, [location.pathname, navigate]);
 
   return (
     <div className={darkMode ? "dark" : "light"}>
