@@ -2,6 +2,7 @@
 
 This is my personal portfolio website built using React.js.
 It showcases my projects, skills, and contact information in a clean and responsive design.
+The project is deployed using Netlify and the code is available on GitHub.
 
 ## Live Demo
 
